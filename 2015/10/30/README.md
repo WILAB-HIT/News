@@ -4,6 +4,6 @@
 Demo链接：[http://wi.hit.edu.cn/cemr/](http://wi.hit.edu.cn/cemr/)中文电子病历资源构建链接：[https://github.com/WILAB-HIT/Resources](https://github.com/WILAB-HIT/Resources)，具体内容包括：医疗实体与实体关系语料库标注规范、语料库标注工具、语料库样本数据、医学伦理性证明等。研究室链接：[http://wi.hit.edu.cn/dev/](http://wi.hit.edu.cn/dev/)
 
 
-![image]()
+![image](https://github.com/WILAB-HIT/News/blob/master/2015/10/30/1.png)
 
-![image]()
+![image](https://github.com/WILAB-HIT/News/blob/master/2015/10/30/2.png)
